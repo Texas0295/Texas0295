@@ -1,7 +1,7 @@
 基本情報
 - 名前: Texas0295
 - メール: <kimurakounosuke@outlook.com> (work)
-- ブログ: [texas-0295.xyz](https://www.texas0295.top)
+- ブログ: [texas0295.top](https://www.texas0295.top)
 
 習っている言語
 - Rust
