@@ -1,9 +1,7 @@
-# 人生は意味無し
-
 基本情報
 - 名前: Texas0295
 - メール: <kimurakounosuke@outlook.com> (work)
-- ブログ: [texas-0295](https://www.texas-0295.xyz)
+- ブログ: [texas-0295.xyz](https://www.texas0295.top)
 
 習っている言語
 - Rust
