@@ -1,6 +1,6 @@
 基本情報
 - 名前: Texas0295
-- メール: <kimurakounosuke@outlook.com> (work)
+- メール: <Texas0295@outlook.com> (work)
 - ブログ: [texas0295.top](https://www.texas0295.top)
 
 習っている言語
